@@ -8,3 +8,8 @@ Diagramme de classe :
 
 ![alt text](https://github.com/MajinEro/SpaceInvader/blob/master/DiagrammeDeClasse1.png)
 
+Nuage de mot :
+
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/spaceinvader2-NuageDeMot.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
