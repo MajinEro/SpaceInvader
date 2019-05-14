@@ -1,4 +1,4 @@
-package fr.unilim.iut.spaceinvaders;
+package fr.unilim.iut.spaceinvaders.SpaceInvaders;
 
 public class Vaisseau {
 
@@ -10,7 +10,7 @@ public class Vaisseau {
 		this.y = y;
 	}
 
-	public boolean occupeLaPosition(int x2, int y2) {
+	public boolean occupeLaPosition(int x, int y) {
 		
 		return (this.x==x) && (this.y==y);
 	}
