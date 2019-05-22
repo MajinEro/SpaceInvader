@@ -23,3 +23,17 @@ Diagramme de classe :
 Nuage de mot : 
 
 ![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/spaceinvader_nuage_de_mot2.png)
+
+# Seance du 14/05/19 au 22/05/19-----------------------------
+
+Fonctionnalité mise en place : Fin de la premiere fonctionnalité, creation du vaisseau et de ses differentes position, mouvement et de ces differente methode. Utilisation du refractor afin de rendre le code plus lisible.
+
+Problemes rencontrés : Problemes lors des tests de la deuxiemme fonctionnalité. Le vaiseau apparaissait d'une mauvaise taille ou au mauvais endroit.
+
+Diagramme de classe :
+
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/DiagrammeDeClasse3.png)
+
+Nuage de mot : 
+
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/NuageDeMots3.png)
