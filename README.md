@@ -6,7 +6,7 @@ Fonctionnalité mise en place : debut de la premiere story, creation du vaisseau
 
 Diagramme de classe :
 
-![alt text](https://github.com/MajinEro/SpaceInvader/blob/master/DiagrammeDeClasse1.png)
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/DiagrammeDeClasse1.png)
 
 Nuage de mot :
 
