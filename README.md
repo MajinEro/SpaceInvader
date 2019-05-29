@@ -37,3 +37,18 @@ Diagramme de classe :
 Nuage de mot : 
 
 ![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/NuageDeMots3.png)
+
+
+# Seance du 22/05/19 au 29/05/19-----------------------------
+
+Fonctionnalité mise en place : Ajout de la deuxiemme et troisieme fonctionnalité ainsi que de l'interface graphique. J'ai egalement effectué la moitié de la quatrieme fonctionnalité avec l'ajout du missile (qui ne se dplace pas encore).
+
+Problemes rencontrés : Problemes avec certains test. L'element retourne n'est pas unne succession de chaine de caractère mais (je suppose) une adresse mémoire. 
+
+Diagramme de classe :
+
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/DiagrammeDeClasse4.png)
+
+Nuage de mot : 
+
+![alt text](https://github.com/MajinEro/SpaceInvader/blob/Diagrammes-de-classe/NuageDeMots4.png)
