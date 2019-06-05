@@ -3,10 +3,8 @@ package fr.unilim.iut.spaceinvaders;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-import fr.unilim.iut.spaceinvaders.spaceinvaders.SpaceInvaders;
-import fr.unilim.iut.spaceinvaders.spaceinvaders.Vaisseau;
+import fr.unilim.iut.spaceinvaders.model.Vaisseau;
 import fr.unilim.iut.spaceinvaders.utils.*;
-import org.junit.Before;
 import org.junit.Test;
 
 public class VaisseauTest {
